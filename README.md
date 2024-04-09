@@ -6,6 +6,8 @@ The modern Olympic Games are the leading international sporting events featuring
 
 In the Dataset each row corresponds to an individual athlete competing in an individual event, including the athlete's name, sex, age, height, weight, country, and medal, and the event's name, sport, games, year, and city.
 
+Link to the dataset: [Olympics Dataset](https://app.mavenanalytics.io/datasets?search=olympic)
+
 In this report I had the opportunity to analyse data that tells a story of all Olympic Games over time, since Athens 1896 to Rio 2016.
 
 ## Insights:
