@@ -1,5 +1,5 @@
 # 120-Years-of-Olympic-History
-Analysis of a dataset with historical data on the modern Olympic Games, from Athens 1896 to Rio 2016.
+Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016.
 
 ## Overview:
 The modern Olympic Games are the leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympics are considered the world's foremost sports competition with more than 200 teams, representing sovereign states and territories participating. The Olympic Games are normally held every four years, and since 1994, have alternated between the Summer and Winter Olympics every two years during the four-year period.
