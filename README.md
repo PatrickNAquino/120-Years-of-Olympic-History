@@ -10,7 +10,9 @@ Link to the dataset: [Olympics Dataset](https://app.mavenanalytics.io/datasets?s
 
 In this report I had the opportunity to analyse data that tells a story of all Olympic Games over time, since Athens 1896 to Rio 2016.
 
-## Insights:
+## Analysis:
+[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDk4YTA5ZTQtYTRjNy00YmQwLThlODEtZGM2YmIyODBkMjE2IiwidCI6Ijc5NzgyMzFkLTA4ZjAtNDVhNy05ZDEzLTc3YzNmYTk2OGI4OCJ9)
+
 - United States is the country who sent most athletes to the games and they also earned most gold medals, being the best on athletics and swimming.
 - Michael Phelps is the athlete with th highest number of individual medals.
 - 2016 - Rio de Janeiro had the highest total athletes (11179) while 1956 - Stockholm had the lowest (158).
